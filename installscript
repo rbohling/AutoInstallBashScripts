@@ -184,7 +184,7 @@ else
 				;;
 			
 			6_social) 
-				#Signal
+				#Signal (SNAP)
 				echo "Installing Signal Messenger (SNAP)"
 				check_snap
 				snap install signal-desktop
@@ -192,7 +192,7 @@ else
     			;;
 
     		7_social)
-    			#Whalebird
+    			#Whalebird (SNAP)
     			echo "Installing Whalebird Mastodon App (SNAP)"
     			check_snap
     			snap install whalebird
