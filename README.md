@@ -1,5 +1,5 @@
 # AutoInstallBashScripts
-A bash script to install what I think are necessary applications. Thanks to Big Daddy Linux, Skrappjaw, and many others.
+A bash script to install what I think are necessary applications. 
 
 ### Instructions
 1. Download bash script to a folder (ex: /Documents or /Downloads)
